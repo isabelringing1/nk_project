@@ -1,0 +1,19 @@
+{
+  "name": "nk_project",
+  "version": "1.0.0",
+  "description": "Final Project for North Korea and Religion, Fall 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelringing1/nk_project.git"
+  },
+  "author": "Isabel Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelringing1/nk_project/issues"
+  },
+  "homepage": "https://github.com/isabelringing1/nk_project#readme"
+}
